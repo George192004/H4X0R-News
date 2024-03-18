@@ -1,4 +1,4 @@
-# <img width="64" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crowd.dev%2Fconnect%2Fhackernews-hubspot&psig=AOvVaw0NLy4Rh5YkR7j65T__hhW_&ust=1710867430587000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJi31P2j_oQDFQAAAAAdAAAAABAJ"> Hacker News
+# <img width="64" src="https://github.com/George192004/H4X0R-News/assets/82280860/720d221c-9ac3-4afd-b640-d6a400a9c53d"> Hacker News
 
 Another [Hacker News](https://news.ycombinator.com/) client made with SwiftUI.
 
